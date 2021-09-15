@@ -1,4 +1,4 @@
 # bored-elon-unicorn-club
-DeFi for everyone
+NFT collection of 9999 Bored Elons making learning fun for "normies". 
 
 <img src="https://github.com/reneDescartess/bored-elon-unicorn-club/blob/main/Bored_Elon_Unicorn_Club.png"  />
